@@ -1,5 +1,7 @@
+import Main from 'components/Main'
+
 const Home: React.FC = () => {
-  return <h1>Hello nextjs</h1>
+  return <Main />
 }
 
 export default Home
